@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to my GIT Hub page ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-You can use the [editor on GitHub](https://github.com/annihilatorrrr/annihilatorrrr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Hi, I'm Annihilator Spark! A curiouse student From Unknown imagination!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609274174641.png" width="495px">
 
-### Markdown
+<p align="left"> <a href="https://github.com/annihilatorrrr"><img src="https://github-profile-trophy.vercel.app/?username=annihilatorrrr&theme=juicyfresh&no-bg=true&no-frame=true&column=4&" alt="annihilatorrrr" /></a> </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br />
 
-```markdown
-Syntax highlighted code block
+#  📊 Stats
+![Metrics](https://metrics.lecoq.io/annihilatorrrr?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&activity=1&achievements=1&notable=1&discussions=1&gists=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=3&followup.sections=repositories&followup.indepth=true&people.limit=28&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&activity.limit=3&activity.load=300&activity.days=15&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=true&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FCalcutta)
 
-# Header 1
-## Header 2
-### Header 3
+# 🔗 Contact me via:
+<a href="https://telegram.dog/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://telegram.org/img/t_logo.png?1" /></a> 
+<a href="mailto:tanmoyomg7@gmail.com"><img align="left" alt="annihilatorrrr" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
+</br>
+---
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annihilatorrrr/annihilatorrrr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](https://visitor-badge.glitch.me/badge?page_id=annihilatorrrr)
