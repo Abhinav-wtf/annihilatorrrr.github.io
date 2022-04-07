@@ -1,7 +1,3 @@
-<!-- particles.js container -->
-<div id="particles-js"></div> <!-- stats - count particles -->
-<div class="count-particles"> <span class="js-count-particles">--</span> particles </div> <!-- particles.js lib - https://github.com/VincentGarreau/particles.js -->
-<script>
 particlesJS("particles-js", {
   particles: {
     number: { value: 160, density: { enable: true, value_area: 800 } },
@@ -74,4 +70,3 @@ update = function () {
   requestAnimationFrame(update);
 };
 requestAnimationFrame(update);
-</script>
